@@ -7,11 +7,32 @@ Hi 👋 I'm Karan Shah
 </h1>
 
 <h3 align="center">
-AI/ML Engineer • Future Quantitative Developer • C++ Systems Programmer
+Quantitative Developer • C++ Systems Programmer • AI/ML Engineer
 </h3>
 
 <p align="center">
 Building ultra-low latency systems, trading infrastructure, AI systems, and high-performance software.
+</p>
+
+---
+
+<p align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub contribution snake"
+    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
 </p>
 
 ---
