@@ -78,12 +78,16 @@
 ## `$ whoami`
 
 ```
-AI/ML engineer with a focus on distributed systems and systems programming.
-Currently building the foundational infrastructure for quantitative trading:
-order books, matching engines, and market data pipelines — in modern C++.
+AI/ML Engineer with experience designing and deploying production-grade machine learning systems,
+Retrieval-Augmented Generation (RAG) applications, distributed data pipelines,
+and cloud-native AI solutions. Skilled in Python, C++, SQL, AWS, Kubernetes, PyTorch,
+and scalable software engineering, with a strong focus on building reliable, high-performance systems.
 
-Drawn to problems where performance guarantees matter as much as correctness.
-The gap between nanoseconds and microseconds is an engineering problem I intend to close.
+Currently Building Trading Engine in modern C++, low-latency programming,
+trading infrastructure, and quantitative finance by building exchange systems,
+matching engines, and algorithmic trading projects.
+Passionate about applying software engineering, machine learning,
+and mathematical problem-solving to performance-critical financial systems.
 ```
 
 ---
@@ -92,7 +96,7 @@ The gap between nanoseconds and microseconds is an engineering problem I intend 
      CAREER TRAJECTORY
      ============================================================ -->
 
-## `$ cat career_trajectory.md`
+## `career_trajectory`
 
 <div align="center">
 
@@ -120,11 +124,8 @@ The gap between nanoseconds and microseconds is an engineering problem I intend 
 
 ---
 
-<!-- ============================================================
-     TECH STACK
-     ============================================================ -->
 
-## `$ ls -la tech_stack/`
+## `tech_stack/`
 
 **Languages**
 
@@ -175,11 +176,8 @@ The gap between nanoseconds and microseconds is an engineering problem I intend 
 
 ---
 
-<!-- ============================================================
-     CURRENT BUILD LOG
-     ============================================================ -->
 
-## `$ tree current_build/`
+## `currently_building`
 
 ```
 trading-infrastructure/
@@ -202,61 +200,10 @@ ml-infrastructure/
 ---
 
 <!-- ============================================================
-     FEATURED PROJECTS
-     ============================================================ -->
-
-## `$ cat featured_projects.md`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `limit-order-book`
-Price-time priority order book implementing the core data structure of every electronic exchange. Built in C++ with lock-free price level management.
-
-**Stack:** `C++23` `STL` `Boost` `CMake`  
-**Status:** 🚧 In Development
-
-</td>
-<td width="50%" valign="top">
-
-### `matching-engine`
-Continuous double auction matching engine driving order book execution. Focus on deterministic latency and cache-friendly data layout.
-
-**Stack:** `C++23` `SPSC Queues` `Memory Pools`  
-**Status:** 🚧 In Development
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### `ml-serving-core`
-Low-latency model inference pipeline supporting real-time feature ingestion and sub-millisecond prediction serving.
-
-**Stack:** `Python` `C++` `ONNX Runtime` `gRPC`  
-**Status:** ✅ Complete
-
-</td>
-<td width="50%" valign="top">
-
-### `distributed-feature-store`
-Time-series feature computation engine for ML pipelines. Handles point-in-time correctness and high-throughput streaming updates.
-
-**Stack:** `Python` `Kafka` `Redis` `PostgreSQL`  
-**Status:** ✅ Complete
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ============================================================
      ENGINEERING PHILOSOPHY
      ============================================================ -->
 
-## `$ cat engineering_philosophy.md`
+## `engineering_philosophy`
 
 > **Correct before clever.** A system that works predictably is worth more than one that works brilliantly on average.
 
@@ -272,53 +219,8 @@ Time-series feature computation engine for ML pipelines. Handles point-in-time c
 
 ---
 
-<!-- ============================================================
-     LEARNING ROADMAP
-     ============================================================ -->
 
-## `$ cat roadmap.md`
 
-```
-FOUNDATION
-✅  Python                       — Production proficiency
-✅  Machine Learning              — Model design, training, evaluation
-✅  Distributed Systems           — Consistency, replication, fault tolerance
-✅  Cloud Infrastructure (AWS)    — Containerized deployment, managed services
-✅  SQL & Data Engineering        — Pipelines, warehouses, streaming
-
-IN PROGRESS
-🚧  Modern C++ (C++17/20/23)      — Memory model, templates, concurrency
-🚧  Low-Latency Programming       — Lock-free data structures, NUMA, CPU affinity
-🚧  Exchange Protocols (FIX)      — Session layer, message types, connectivity
-🚧  Market Microstructure         — Order book dynamics, execution quality, impact
-
-NEXT
-📌  Financial Engineering         — Options theory, risk models, pricing
-📌  Systematic Trading            — Signal research, portfolio construction
-📌  Market Making Mechanics       — Inventory risk, quoting strategies
-📌  Quantitative Methods          — Statistical inference, factor models
-```
-
----
-
-<!-- ============================================================
-     READING LIST
-     ============================================================ -->
-
-## `$ cat reading_list.md`
-
-| Status | Title | Author |
-|--------|-------|--------|
-| 📖 Reading | *Effective Modern C++* | Scott Meyers |
-| 📖 Reading | *C++ Concurrency in Action* | Anthony Williams |
-| 📖 Reading | *Designing Data-Intensive Applications* | Martin Kleppmann |
-| 📋 Queue | *Market Microstructure Theory* | Maureen O'Hara |
-| 📋 Queue | *Algorithmic Trading* | Ernie Chan |
-| 📋 Queue | *Options, Futures, and Other Derivatives* | John C. Hull |
-| 📋 Queue | *The Art of Writing Efficient Programs* | Fedor Pikus |
-| 📋 Queue | *Trading and Exchanges* | Larry Harris |
-
----
 
 <div align="center">
 
