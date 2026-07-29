@@ -245,13 +245,19 @@ Quantitative Development
 
 ---
 
-# GitHub Stats
+#GitHub Stats
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=karanQD&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karanQD&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanQD&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanQD&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=karanQD&theme=tokyonight&hide_border=true"/>
 
 </p>
 
