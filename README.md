@@ -57,7 +57,7 @@ Building ultra-low latency systems, trading infrastructure, AI systems, and high
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineer;Quantitative+Developer+in+Progress;Building+Trading+Engines+in+C%2B%2B;Low+Latency+Systems;Machine+Learning+for+Finance;Always+Learning"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=700&center=true&vCenter=true&width=900&lines=Quantitative+Developer;Building+Trading+Engines+in+C%2B%2B;Low+Latency+Systems;AI+%2F+ML+Engineer;Machine+Learning+for+Finance;Always+Learning"/>
 
 </p>
 
@@ -249,9 +249,9 @@ Quantitative Development
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=karanQD&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karanQD&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -261,7 +261,7 @@ Quantitative Development
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=karanQD&theme=tokyo-night"/>
 
 </p>
 
