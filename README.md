@@ -101,17 +101,17 @@ The gap between nanoseconds and microseconds is an engineering problem I intend 
 ║                    ENGINEERING TRAJECTORY                    ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║   [■■■■■■■■■■]  AI / ML Engineering          ← Established  ║
+║   [■■■■■■■■■■]  AI / ML Engineering          ← Established   ║
 ║         ↓                                                    ║
-║   [■■■■■■■■░░]  Distributed Systems          ← Proficient   ║
+║   [■■■■■■■■■■]  Distributed Systems          ← Proficient    ║
 ║         ↓                                                    ║
-║   [■■■■■░░░░░]  Modern C++ & Systems         ← In Progress  ║
+║   [■■■■■■■■■■]  Modern C++ & Systems         ← In Progress   ║
 ║         ↓                                                    ║
-║   [■■░░░░░░░░]  Low-Latency Computing        ← Learning     ║
+║   [■■■■■■■■■■]  Low-Latency Computing        ← Learning      ║
 ║         ↓                                                    ║
-║   [■░░░░░░░░░]  Trading Infrastructure       ← Building     ║
+║   [■■■■■■■■■■]  Trading Infrastructure       ← Building      ║
 ║         ↓                                                    ║
-║   [░░░░░░░░░░]  Quantitative Development     ← Destination  ║
+║   [■■■■■■■■■■]  Quantitative Development     ← Destination   ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
